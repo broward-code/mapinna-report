@@ -1,5 +1,13 @@
+# Web Frameworks
 streamlit
+fastapi
+uvicorn
+
+# Data Handling & Excel
 pandas
 xlsxwriter
-requests
 openpyxl
+
+# Networking & Images
+requests
+Pillow
